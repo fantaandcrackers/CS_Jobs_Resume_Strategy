@@ -1,3 +1,56 @@
+Work Experiences
+
+Company: Creative Media
+  Time Period: October 2015 to Present
+  Location: Davis, CA 
+  Titles: iOS, Django, Django Python, Full Stack Web Developer
+  Description:
+  Projects
+    1. Official UC Davis iOS App
+      URL: https://mobile.ucdavis.edu/
+      Description: Official Uc  7,000+ weekly users
+      Responsibilities:
+        - Redesign and implementation of Bus Section of Application
+        - Rewriting components in Swift
+        - Re-engineered Core Data database infrastructure of UC Davis App to streamline storage and retrieval of complex hierarchal bus data
+      Skills:
+        - Ability to analyze and comprehend existing codebases and architectures quickly (Taken from Josh)
+        - Analysis of user behavior to drive increased user retention
+        - Data modeling and database implementation Core Data
+        - Implementing accessibility features for users with sensory impairments
+      Achievements:
+        - Increased weekly app usage by 20% ( +1275 users ) by implementing 7+ UI features and changes based on user behavior analytics
+      Languages: Swift, Objective C
+      Technologies: Cocoa, Cocoa Touch, XCode
+    2. Status Page
+      URL: http://status.asucd-python.ucdavis.edu/
+      Description: User friendly webpage for in house website response time monitoring 
+      Responsibilities:
+        - Design and Implement display of multiple website response times
+        - Create visually pleasing color palette, buttons, and other visuals
+      Skills:
+        - Ability to analyze and comprehend existing codebases and architectures quickly
+        - Design visually pleasing and user intuitive user interfaces
+      Achievements
+        - Visually pleasing and user intuitive user interfaces
+      Languages: Python, HTML, CSS
+      Technologies: Django Web Framework, Google Graphs, Sketch
+    3. Cornerstone Real Estate Brokerage and Mortgage firm
+      URL: (Temporary) https://asucd-dja-router-dev.ucdavis.edu:18001/en/
+      Description: 
+      Responsibilitiles:
+        - Develop
+
+
+
+          - Title & Company
+          - Description
+          - Skills and Qualities Exemplified
+
+
+Improved and maintained official UC Davis iOS app (https://mobile.ucdavis.edu/, 7,000+ weekly users) by incorporating newest technologies (ex: Swift, SFSafariVC)
+Increased weekly app usage by 20% ( +1275 users ) by implementing 7+ UI features and changes based on user behavior analytics
+Re-engineered Core Data database infrastructure of UC Davis App to streamline storage and retrieval of complex hierarchal bus data
 
 
 React Native (iOS) Developer | VideoRecipes Aug 2016 to Sept 2016
