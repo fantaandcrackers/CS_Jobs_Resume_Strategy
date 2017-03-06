@@ -1,6 +1,6 @@
 Work Experiences
 
-Company: Creative Media
+Employer: Creative Media
   Time Period: October 2015 to Present
   Location: Davis, CA 
   Titles: iOS, Django, Django Python, Full Stack Web Developer
@@ -50,61 +50,53 @@ Company: Creative Media
       Languages: Python, Javascript, HTML, CSS
       Technologies: Django Web Framework, Angular.js, SASS, Postgres
 
-Refurbished existing app with user-friendly UI, fixed errors in 131 item database, created media for App Store submission ( www.thepacker.com/news/uc-davis-creates-produce-app )
-
-Company: Postharvest Technology at UC Davis
+Employer: Postharvest Technology at UC Davis
   Time Period: October 2016 to February 2017
   Location: Davis, CA 
-  Titles: iOS, Django, Django Python, Full Stack Web Developer
+  Titles: iOS Developer
   Description:
   Projects
-    1. Official UC Davis iOS App
-      URL: https://mobile.ucdavis.edu/
+    1. Postharvest iOS App
+      URL: www.thepacker.com/news/uc-davis-creates-produce-app
       Description: Official Uc  7,000+ weekly users
       Responsibilities:
+        - Fix errors in 131 item database
+        - Refurbished existing app with user-friendly UI
+        - Coordinate required information for app store submission
       Skills:
         - Ability to analyze and comprehend existing codebases and architectures quickly
-        - Pinpoint client needs and efficeintly coordinate required information through in person meetings and email
+        - Pinpoint client needs and efficiently coordinate required information through in person meetings and email
       Achievements:
+        - Analyze existing codebase and refurbished app with user friendly UI, fixed various bugs both in codebase and in 131 item database.
       Languages: Swift
       Technologies: Cocoa, Cocoa Touch, XCode
 
+Employer: Professor at University of California
+  Time Period: January 2017 to Present
+  Location: Davis, CA 
+  Titles: Senior Design Project Teaching Assistant (Primarily for iOS)
+  Description:
+    - Seniors create groups and develop projects for clients
+  Responsibilities:
+    - Host iOS and Swift workshop to teaching iOS app architecture and Swift conventions
+    - Provide technical direction to senior students
+    - Keep students acountable
+  Skills:
+    - Concisely provide technical direction and feedback on progress
+  Achievements:
+    - Provided technical direction and advice to group new to web development to create MEAN website with extensive features ex: advised to do tutorials for User Login & MongoDB, and focus on REST API over UI
 
-iOS Developer | Postharvest Technology @ UC Davis October 2016 to February 2017
-Refurbished existing app with user-friendly UI, fixed errors in 131 item database, created media for App Store submission ( www.thepacker.com/news/uc-davis-creates-produce-app )
-
-Company
 
 CTO and Co-founder | Hitup | Fremont, CA  October 2014 to July 2016
 Chief developer and designer of social networking iOS app with 200+ downloads ( https://itunes.apple.com/us/app/hitup-share-location-pins/id1094882046?mt=8 ) 
 Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
 Used Parse, Firebase, MEAN, and Dynamo + Node backends to store user information, locational posts, and instant messages 
 Integrated 8 open source frameworks to create menus, instant messaging UIs, send HTTP requests, and implement user analytics
-
-
-Improved and maintained official UC Davis iOS app (https://mobile.ucdavis.edu/, 7,000+ weekly users) by incorporating newest technologies (ex: Swift, SFSafariVC)
-Increased weekly app usage by 20% ( +1275 users ) by implementing 7+ UI features and changes based on user behavior analytics
-Re-engineered Core Data database infrastructure of UC Davis App to streamline storage and retrieval of complex hierarchal bus data
-
 
 React Native (iOS) Developer | VideoRecipes Aug 2016 to Sept 2016
 Developed and designed React Native mobile app that procured videos trending 1 million+ views on Facebook and integrated a search and bookmark feature ( https://github.com/fantaandcrackers/Video_Recipes )
 Created Django REST API server that queries Facebook Graph API and distributes 500+ video information objects stored locally into PostgreSQL database ( https://github.com/fantaandcrackers/ASVideo_Recipes_Service )
 
-iOS Developer | Postharvest Technology @ UC Davis October 2016 to February 2017
-Refurbished existing app with user-friendly UI, fixed errors in 131 item database, created media for App Store submission ( www.thepacker.com/news/uc-davis-creates-produce-app )
-
 Web Developer | United States Intl. Music Competition October 2016 to Present
 Currently developing full stack website utilizing Django, PostgreSQL and Stripe payment for music competition applicants ( Hosted by www.cmtanc.org )
 Developed app structure for applicant data submission and excel download
-
-CTO and Co-founder | Hitup | Fremont, CA  October 2014 to July 2016
-Chief developer and designer of social networking iOS app with 200+ downloads ( https://itunes.apple.com/us/app/hitup-share-location-pins/id1094882046?mt=8 ) 
-Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
-Used Parse, Firebase, MEAN, and Dynamo + Node backends to store user information, locational posts, and instant messages 
-Integrated 8 open source frameworks to create menus, instant messaging UIs, send HTTP requests, and implement user analytics
-
-
-Senior Design Project TA | UC Davis | Davis, CA   January 2017 to Present
-Provided web app and iOS expertise and technical direction to senior students
-Hosted iOS and Swift workshop teaching iOS app architecture, Swift conventions, and relevant Apple frameworks
