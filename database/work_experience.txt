@@ -87,15 +87,21 @@ Employer: Professor at University of California
     - Provided technical direction and advice to group new to web development to create MEAN website with extensive features ex: advised to do tutorials for User Login & MongoDB, and focus on REST API over UI
 
 
-CTO and Co-founder | Hitup | Fremont, CA  October 2014 to July 2016
-Chief developer and designer of social networking iOS app with 200+ downloads ( https://itunes.apple.com/us/app/hitup-share-location-pins/id1094882046?mt=8 ) 
-Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
-Used Parse, Firebase, MEAN, and Dynamo + Node backends to store user information, locational posts, and instant messages 
-Integrated 8 open source frameworks to create menus, instant messaging UIs, send HTTP requests, and implement user analytics
+Name: Website for United States Intl. Music Competition
+  Role: Full Stack Web Developer and UI / UX Designer
+  Contractor: Hosted by www.cmtanc.org
+  Time Period: January 2016 to Present
+  Location: Fremont, California
+  URL: http://ec2-54-193-10-208.us-west-1.compute.amazonaws.com/
+  Responsibilities:
+    - Develop full stack website for user creation, competition application management and submission, and analytics, display, and .csv file retrieval of applicant data
+    - Create branding guideline and design user friendly user interfaces
+    - (Pending) payment management and calculation for various overlapping competition categories by utilizing Stripe payment
+  Skills:
+    - Efficiently pinpoint specific features needed by client
+  Achievements:
+    
 
-React Native (iOS) Developer | VideoRecipes Aug 2016 to Sept 2016
-Developed and designed React Native mobile app that procured videos trending 1 million+ views on Facebook and integrated a search and bookmark feature ( https://github.com/fantaandcrackers/Video_Recipes )
-Created Django REST API server that queries Facebook Graph API and distributes 500+ video information objects stored locally into PostgreSQL database ( https://github.com/fantaandcrackers/ASVideo_Recipes_Service )
 
 Web Developer | United States Intl. Music Competition October 2016 to Present
 Currently developing full stack website utilizing Django, PostgreSQL and Stripe payment for music competition applicants ( Hosted by www.cmtanc.org )

@@ -1,0 +1,154 @@
+
+Resume for Workday -- Software Development & Data Science, Technology Rotation Program - New College Graduate 
+  URL: https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Technology-Rotation-Program--New-College-Graduate_JR-14696
+  Location: USA, CA, Pleasanton
+
+
+
+
+
+  Qualities:
+    - Demonstrated ability to quickly pick up new technologies
+    - Verbal and written communication
+    - Curiosity in Data
+    - B.S. in CS
+
+  Skills & Experiences:
+    - Languages:
+      - Proficiency in Python, Java, or Scala
+      - Mastery of R, Matlab, or SAS
+    - Machine Learning Algorithms
+      - SVM, logistic regression, boosting, ARIMA, clustering, LDA, deep learning, etc.
+    - Big Data Technologies
+      - Hadoop, Hive, Pig, Spark, Elasticsearch/ELK, Kafka, Flink, Druid, Zeppelin
+    - DevOps:
+      - Perl, Python, Ruby Chef, Linux
+    - Object Oriented Design & Programming with Java.
+    - UML design
+
+  Technologies:
+    - Source Control: 
+      - SVN or Git
+    - IDEs:
+      - Eclipse, Intellij
+    - Unit testing frameworks:
+      - JUnit
+
+  Qualities:
+    - Verbal and written communication
+        Employer: Postharvest Technology at UC Davis
+        Time Period: October 2016 to February 2017
+        Location: Davis, CA 
+        URL: www.thepacker.com/news/uc-davis-creates-produce-app
+        Title: iOS Developer and Contractor
+        Description:
+          - Pinpointed client needs to fix errors in 131 item database and refurbish existing app with user-friendly UI
+          - Efficiently coordinated acquisition of client information to streamline Apple app submission process
+        Languages: Swift
+        Technologies: Cocoa, Cocoa Touch, XCode
+
+    - Demonstrated ability to quickly pick up new technologies
+      Name: Video Recipes
+        Role: React Native (iOS) Developer
+        Time Period: Aug 2016 to Sept 2016
+        Location: Fremont, California
+        URL: https://itunes.apple.com/us/app/30s-video-recipes/id1161291434?mt=8
+        Descriptions:
+          - Quickly mastered React Native and Django Rest Frameworks to develop React Native mobile app and Video REST API
+          - Developed mobile app to store 500+ video information objects in Realm database and integrated search and bookmark features ( https://github.com/fantaandcrackers/Video_Recipes )
+          - Developed REST API server with Python, Django to source videos for app. Server queries Facebook Graph API and distributes 500+ video information objects stored locally into PostgreSQL database ( https://github.com/fantaandcrackers/ASVideo_Recipes_Service )
+        Languages: Javascript, Python
+        Technologies: React Native, React, XCode, PostgreSQL
+
+  Skills & Experiences
+    - Object Oriented Java
+        Name: Java Object Oriented Project
+          Time Period: February 2017
+          Location: Davis, California
+          URL: https://github.com/wendypark/OOP_Java
+          Description:
+            - Developed several abstractions to demonstrate object oriented concepts such as Inheritance, dynamic binding, overloading of methods
+            - Maintained clarity of code while minimizing repetition and maximizing implied value
+    - Proficiency in Python, Java, or Scala
+      Name: Python 3D Nurbs Surface Generator
+        Role: Python OpenGL Developer
+        Time Period: March 2016
+        Location: Davis, California
+        URL: https://github.com/fantaandcrackers/3d-nurbs-surface-editor-python
+        Description
+          - Implemented graphical algorithm for generating 3D Nurbs Surfaces in Python
+          - Developed interfaces for complex 3D actions by utilizing Python bindings to QT framework
+      Name: Website for United States Intl. Music Competition
+        Roles: Full Stack Python Django Web Developer, UI / UX Designer, Contractor
+        Contractor: Hosted by www.cmtanc.org
+        Time Period: Aug 2016 to Sept 2016
+        Location: Fremont, California
+        URL: https://itunes.apple.com/us/app/30s-video-recipes/id1161291434?mt=8
+        Responsibilities:
+          - Develop full stack python website with functionality for user creation, competition application management and submission, and analytics, display, and .csv file retrieval of applicant data
+          - Concisely pinpoint client needs through branding guideline and clean user friendly user interface designs
+          - (Pending) payment management and calculation for various overlapping competition categories by utilizing Stripe payment
+    - Mastery of R, Matlab, or SAS          
+      Name: Matlab Audio Sampler and Modulator
+        Role: Matlab Developer
+        Time Period: March 2014
+        Location: Davis, California
+        URL: https://github.com/fantaandcrackers/MATLAB_Audio_Sampler
+        Responsibilities:
+          - Developed uncluttered Matlab GUI and implemented sound modulation and sampling of audio datasets
+      Name: R Covert Communication Injection
+        Role: R Developer
+        Time Period: October 2015
+        Location: Davis, California
+        URL: https://github.com/fantaandcrackers/R_Covert_Com
+        Responsibilities:      
+          - Used R Studio to develop functions to coverly inject bit encoded messages into packet delay data sets
+          - Graphically displayed results to detect probability of existance of injected messages and to model Exponential and Normal distributions
+
+
+
+Work Experiences
+
+Employer: Creative Media
+  Time Period: October 2015 to Present
+  Location: Davis, CA 
+  Titles: iOS, Django, Django Python, Full Stack Web Developer
+  Description:
+  Projects
+    1. Official UC Davis iOS App
+      URL: https://mobile.ucdavis.edu/
+      Description: Official Uc  7,000+ weekly users
+      Responsibilities:
+        - Redesign and implementation of Bus Section of Application
+        - Rewriting components in Swift
+        - Re-engineered Core Data database infrastructure of UC Davis App to streamline storage and retrieval of complex hierarchal bus data
+      Skills:
+        - Ability to analyze and comprehend existing codebases and architectures quickly (Taken from Josh)
+        - Analysis of user behavior to drive increased user retention
+        - Data modeling and database implementation Core Data
+        - Implementing accessibility features for users with sensory impairments
+      Achievements:
+        - Increased weekly app usage by 20% ( +1275 users ) by implementing 7+ UI features and changes based on user behavior analytics
+      Languages: Swift, Objective C
+      Technologies: Cocoa, Cocoa Touch, XCode
+
+
+Name: Hitup
+  Role: CTO and Co-founder
+  Time Period: October 2014 to July 2016
+  Location: Fremont, California
+  URL: https://itunes.apple.com/us/app/hitup-share-location-pins/id1094882046?mt=8
+  Responsibilities:
+    - Chief developer and designer of social networking iOS app
+    - Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
+    - Built concrete vision of end product and set team wide goals
+  Skills:
+    - Ability to direct engineering teams using agile development cycles
+    - Ability to systematically iterate on UI by utilizing 70+ user research interviews
+    - Ability to pinpoint and integrate useful open source frameworks and projects
+  Achievements:
+    - Integrated 8 open source frameworks to create menus, instant messaging UIs, send HTTP requests, and implement user analytics
+    - Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
+    - 200+ downloads
+  Languages: Objective C, Swift, Javascript
+  Technologies: XCode, Parse Backend Service, Firebase Backend Service, 

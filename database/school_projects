@@ -1,0 +1,61 @@
+School Projects
+
+https://github.com/wendypark/OOP_Java
+
+Name: Object Oriented Java
+  Role: Java Developer
+  Time Period: February 2017
+  Location: Davis, California
+  URL: https://github.com/wendypark/OOP_Java
+  Responsibilities:
+    - By only utilizing primitive types, developed sequence class and various subclassed extensions
+  Skills:
+    - Inheritance, dynamic binding, overloading and overriding
+    - Create clear code while minimizing repetition
+  Achievements:
+    - Demonstrated object oriented concepts such as Inheritance, dynamic binding, overloading of methods
+    - Maintained clarity of code while minimizing repetition and maximizing implied value
+  Languages: Java
+  Technologies: Java
+
+
+Name: Matlab Audio Sampler and Modulator
+  Role: Matlab Developer
+  Time Period: March 2014
+  Location: Davis, California
+  URL: https://github.com/fantaandcrackers/MATLAB_Audio_Sampler
+  Responsibilities:
+    - Developed GUI code for sound modulation and sampling
+  Skills:
+    - Create GUIs for transforming audio datasets in Matlab
+  Achievements:
+    - Developed uncluttered GUI for transforming and sampling audio files
+  Languages: Matlab
+  Technologies: Matlab
+
+Name: 3D Nurbs Surface Generator
+  Role: Python OpenGL Developer
+  Time Period: March 2016
+  Location: Davis, California
+  URL: https://github.com/fantaandcrackers/3d-nurbs-surface-editor-python
+  Responsibilities:
+    - Developed UI for modifying and by utilizing QT framework
+    - Implemented four-dimensional (4D), homogeneous version of the de Boor algorithm to generate 3D Nurbs Surface.
+  Skills:
+    - Implement complex graphics algorithms
+    - Develop interfaces for complex 3D actions by utilizing QT Framework
+  Languages: Python
+  Technologies: Python OpenGL, Python QT
+
+Name: 
+  Role: R Developer
+  Time Period: October 2015
+  Location: Davis, California
+  URL: https://github.com/fantaandcrackers/R_Covert_Communication
+  Responsibilities:
+    - Modified packet delay data sets to inject bit encoded messages covertly communicated by utilizing randomly generated delays
+    - 
+  Skills:
+    - 
+  Languages: R
+  Technologies: R, R Studio

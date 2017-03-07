@@ -1,0 +1,38 @@
+Projects
+
+Name: Hitup
+  Role: CTO and Co-founder
+  Time Period: October 2014 to July 2016
+  Location: Fremont, California
+  URL: https://itunes.apple.com/us/app/hitup-share-location-pins/id1094882046?mt=8
+  Responsibilities:
+    - Chief developer and designer of social networking iOS app
+    - Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
+    - Built concrete vision of end product and set team wide goals
+  Skills:
+    - Ability to direct engineering teams using agile development cycles
+    - Ability to systematically iterate on UI by utilizing 70+ user research interviews
+    - Ability to pinpoint and integrate useful open source frameworks and projects
+  Achievements:
+    - Integrated 8 open source frameworks to create menus, instant messaging UIs, send HTTP requests, and implement user analytics
+    - Directed 4 person engineering team using agile development cycle based on 70+ user research interviews to drive 4 core features
+    - 200+ downloads
+  Languages: Objective C, Swift, Javascript
+  Technologies: XCode, Parse Backend Service, Firebase Backend Service, 
+
+Name: Video Recipes
+  Role: React Native (iOS) Developer
+  Time Period: Aug 2016 to Sept 2016
+  Location: Fremont, California
+  URL: https://itunes.apple.com/us/app/30s-video-recipes/id1161291434?mt=8
+  Responsibilities:
+    - Developed and designed React Native mobile app that procured videos trending 1 million+ views on Facebook and integrated a search and bookmark feature  ( https://github.com/fantaandcrackers/Video_Recipes )
+    - Developed REST API server with Python, Django to source videos for app. Server queries Facebook Graph API and distributes 500+ video information objects stored locally into PostgreSQL database ( https://github.com/fantaandcrackers/ASVideo_Recipes_Service )
+  Skills:
+    - Quickly learn and utilize new frameworks: React Native and Django REST Framework
+    - Ability to create efficient Rest API to query database
+  Achievements:
+    - Efficiently store 500+ video information objects in App in Realm database
+  Languages: Javascript, Python
+  Technologies: React Native, React, XCode, PostgreSQL
+
